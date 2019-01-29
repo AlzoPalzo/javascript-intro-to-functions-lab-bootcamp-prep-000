@@ -17,4 +17,3 @@ function logShout(string)
 {
   console.log(string.toLowerCase());
 }
-
